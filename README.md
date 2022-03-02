@@ -28,6 +28,7 @@
   <a href="https://www.linkedin.com/in/bryannevespinto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  <div class="tenor-gif-embed" data-postid="21308149" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/web-developer-mycrxn-javascript-php-css-react-wordpress-mongo-db-html-bootsrap-gif-21308149">Web Developer Mycrxn GIF</a>from <a href="https://tenor.com/search/web+developer-gifs">Web Developer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  
  
 </div>
+  div class="tenor-gif-embed" data-postid="21308149" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/web-developer-mycrxn-javascript-php-css-react-wordpress-mongo-db-html-bootsrap-gif-21308149">Web Developer Mycrxn GIF</a>from <a href="https://tenor.com/search/web+developer-gifs">Web Developer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
