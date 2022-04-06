@@ -1,4 +1,6 @@
-## Iniciei minha carreira como Engenheiro de Software em diversas atividades, porém com maior ênfase na área de Front-End. Tive contato com diversas tecnologias, como GIT, GITHUB, TypeScript, HTML/CSS e Node.js. Eu foco na linguagem JavaScript, mais especificamente com o React.js
+## Iniciei minha carreira como Engenheiro de Software em diversas atividades, porém com maior ênfase na área de Front-End.
+## Tive contato com diversas tecnologias, como GIT, GITHUB, TypeScript, HTML/CSS e Node.js.
+## Eu foco na linguagem JavaScript, mais especificamente com o React.js
 <div align="center">
   <a href="https://github.com/BryanSnows">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BryanSnows&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
