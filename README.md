@@ -1,6 +1,4 @@
-## Iniciei minha carreira como Engenheiro de Software em diversas atividades, porém com maior ênfase na área de Front-End.
-## Tive contato com diversas tecnologias, como GIT, GITHUB, TypeScript, HTML/CSS e Node.js.
-## Eu foco na linguagem JavaScript, mais especificamente com o React.js
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&duration=3000&color=1C8EF3&multiline=true&height=100&lines=%23+pra+qu%C3%AA+tantos+c%C3%B3digos%3F;%23+se+a+vida+n%C3%A3o+%C3%A9+programada;%23+e+as+melhores+coisas;%23+n%C3%A3o+tem+l%C3%B3gica.)](https://git.io/typing-svg)
 <div align="center">
   <a href="https://github.com/BryanSnows">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BryanSnows&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
