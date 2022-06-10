@@ -24,7 +24,7 @@ I'm a **Software Engineer** at [P S I U]
 ![ANGULAR](https://img.shields.io/badge/angular%20-%23593d88.svg?&style=for-the-badge&logo=angular&logoColor=white)&nbsp;
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vini-coelho&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/caduxl007/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanSnows&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/caduxl007/github-readme-stats)
 <!--
 <h3 align="center">
   Welcome to BryanSnows profile!
