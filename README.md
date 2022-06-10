@@ -25,7 +25,7 @@ I'm a **Software Engineer** at [P S I U]
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vini-coelho&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/caduxl007/github-readme-stats)
-
+<!--
 <h3 align="center">
   Welcome to BryanSnows profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -38,7 +38,7 @@ I'm a **Software Engineer** at [P S I U]
 
 
 
-<!-- Social icons section -->
+
 <p align="center">
   <a href="https://www.youtube.com/channel/UCg73ZlWRQiMYt8t6qRSWHRw"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -64,14 +64,14 @@ I'm a **Software Engineer** at [P S I U]
 
 ## 🔥 Streak stats
 
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=BryanSnows&theme=buefy-metallian&hide_border=true"/>
   </a>
 </p>
 
-<!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
+
 
 ## 🛠️ My favorite tools
 
@@ -115,7 +115,7 @@ I'm a **Software Engineer** at [P S I U]
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
-
+-->
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
  
