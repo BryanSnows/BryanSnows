@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Mobile%20Software%20Enginner;Experienced%20Front%2FEnd%20Developer;1%2B%20years%20of%20coding%20experience;Apaixonado%20por%20<3%20programação&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=%20%20Software%20Enginner;Experienced%20Front%2FEnd%20Developer;1%2B%20years%20of%20coding%20experience;Apaixonado%20por%20<3%20programação&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
 
