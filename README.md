@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&duration=3000&color=1C8EF3&multiline=true&height=100&lines=%23+pra+qu%C3%AA+tantos+c%C3%B3digos%3F;%23+se+a+vida+n%C3%A3o+%C3%A9+programada;%23+e+as+melhores+coisas;%23+n%C3%A3o+tem+l%C3%B3gica.)](https://git.io/typing-svg)
 # Bryan Neves
 
-I'm a **Software Engineer** at [P S I U]
+I'm a **Software Engineer** at Instituto Conecthus - Tecnologia e Biotecnologia do Amazonas
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/snowsbry/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryannevespinto/)
