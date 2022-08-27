@@ -20,7 +20,7 @@ I'm a **Software Engineer Intern** at Instituto Conecthus - Tecnologia e Biotecn
 ![NODE.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![EXPRESS.JS](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge)&nbsp;
-![REDUX](https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white)&nbsp;
+![REDUX](https://img.shields.io/badge/Nest.js%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white)&nbsp;
 ![ANGULAR](https://img.shields.io/badge/angular%20-%23593d88.svg?&style=for-the-badge&logo=angular&logoColor=white)&nbsp;
 
 
