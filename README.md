@@ -118,6 +118,6 @@ I'm a **Software Engineer ** at Instituto Conecthus - Tecnologia e Biotecnologia
 -->
   <!-- ![Snake animation](https://github.com/BryanSnows/BryanSnows/blob/output/github-contribution-grid-snake.svg) -->
 
-  
+   
 
  
