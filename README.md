@@ -119,5 +119,5 @@ I'm a **Fullstack Developer ** at Instituto Conecthus - Tecnologia e Biotecnolog
   <!-- ![Snake animation](https://github.com/BryanSnows/BryanSnows/blob/output/github-contribution-grid-snake.svg) -->
 
    
-
+ 
  
