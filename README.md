@@ -117,6 +117,9 @@ I'm a **Fullstack Developer ** at Instituto Conecthus - Tecnologia e Biotecnolog
 </p>
 -->
   <!-- ![Snake animation](https://github.com/BryanSnows/BryanSnows/blob/output/github-contribution-grid-snake.svg) -->
+  <p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
 
    
  
